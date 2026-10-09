@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pokédex Compose</string>
+
+    <!-- Geral -->
+    <string name="action_back">Voltar</string>
+    <string name="action_retry">Tentar novamente</string>
+    <string name="loading">Carregando…</string>
+    <string name="error_network">Sem conexão com a internet. Verifique sua rede e tente novamente.</string>
+    <string name="error_server">O servidor não respondeu como esperado. Tente novamente em instantes.</string>
+    <string name="error_unknown">Algo deu errado. Tente novamente.</string>
+    <string name="pokemon_number">#%1$03d</string>
+    <string name="pokemon_image">Imagem de %1$s</string>
+
+    <!-- Lista -->
+    <string name="list_title">Pokédex</string>
+    <string name="search_label">Buscar Pokémon</string>
+    <string name="action_refresh">Atualizar lista</string>
+    <string name="action_open_favorites">Abrir favoritos</string>
+    <string name="empty_list">Nenhum Pokémon disponível.</string>
+    <string name="empty_search">Nenhum Pokémon encontrado para a busca.</string>
+    <string name="offline_notice">Não foi possível atualizar. Mostrando dados salvos no aparelho.</string>
+    <string name="add_favorite_named">Favoritar %1$s</string>
+    <string name="remove_favorite_named">Remover %1$s dos favoritos</string>
+    <string name="open_details_named">Ver detalhes de %1$s</string>
+
+    <!-- Detalhe -->
+    <string name="detail_height">Altura: %1$.1f m</string>
+    <string name="detail_weight">Peso: %1$.1f kg</string>
+    <string name="detail_types">Tipos</string>
+    <string name="detail_abilities">Habilidades: %1$s</string>
+    <string name="favorite_button_add">Favoritar</string>
+    <string name="favorite_button_remove">Remover dos favoritos</string>
+
+    <!-- Formulário -->
+    <string name="form_title">Personalizar favorito</string>
+    <string name="form_nickname">Apelido</string>
+    <string name="form_note">Anotação (opcional)</string>
+    <string name="form_save">Salvar</string>
+    <string name="form_counter">%1$d/%2$d</string>
+    <string name="error_nickname_empty">Informe um apelido.</string>
+    <string name="error_nickname_short">Use pelo menos %1$d caracteres.</string>
+    <string name="error_nickname_long">Use no máximo %1$d caracteres.</string>
+    <string name="error_nickname_chars">Use apenas letras, números, espaços e hífen.</string>
+    <string name="error_note_long">A anotação deve ter no máximo %1$d caracteres.</string>
+    <string name="msg_favorite_added">Adicionado aos favoritos</string>
+    <string name="msg_favorite_removed">Removido dos favoritos</string>
+    <string name="msg_saved">Favorito salvo</string>
+
+    <!-- Favoritos -->
+    <string name="favorites_title">Favoritos</string>
+    <string name="favorites_empty">Você ainda não tem favoritos. Toque no coração de um Pokémon para adicioná-lo.</string>
+    <string name="favorites_unknown_name">Pokémon #%1$d</string>
+    <string name="favorites_remove_named">Remover %1$s dos favoritos</string>
+    <string name="favorites_original_name">Pokémon: %1$s</string>
+</resources>

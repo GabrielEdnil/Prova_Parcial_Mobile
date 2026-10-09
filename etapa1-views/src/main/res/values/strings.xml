@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pokédex Views</string>
+    <string name="list_counter">%1$d Pokémon (dados simulados)</string>
+    <string name="list_empty">Nenhum Pokémon disponível.</string>
+    <string name="pokemon_number">#%1$03d</string>
+    <string name="pokemon_icon_description">Ícone de Pokébola</string>
+    <string name="detail_title_default">Detalhes</string>
+    <string name="detail_not_found">Não foi possível encontrar este Pokémon.</string>
+    <string name="detail_height">Altura: %1$.1f m</string>
+    <string name="detail_weight">Peso: %1$.1f kg</string>
+    <string name="detail_habitat">Habitat: %1$s</string>
+    <string name="detail_no_description">Sem descrição disponível.</string>
+    <string name="detail_types_label">Tipos</string>
+    <string name="favorite_add">Favoritar</string>
+    <string name="favorite_remove">Remover dos favoritos</string>
+    <string name="favorite_status_on">%1$s está nos seus favoritos.</string>
+    <string name="favorite_status_off">%1$s não está nos seus favoritos.</string>
+</resources>
