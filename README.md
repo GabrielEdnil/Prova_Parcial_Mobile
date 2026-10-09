@@ -94,6 +94,6 @@ etapa2-compose/  data/ (remote, local, repository)
                  domain/
                  ui/ (list, detail, favorites, navigation, theme)
 ```
-###   P r o v a _ P a r c i a l _ M o b i l e 
+###
  
  
